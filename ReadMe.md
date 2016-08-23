@@ -7,11 +7,13 @@ An Event Planner project; Udacity Senior Front-End Developer nanodegree.
 You have to install Bower and Gulp first:
 
 `npm install -g bower`
+
 `npm install -g gulp`
 
 Then, cd the project directory and install the project dependencies:
 
 `npm install`
+
 `bower install`
 
 #### Start
